@@ -1,13 +1,13 @@
 # :arrow_down: Downloads
 
 
-## [Click To download bee Player](https://github.com/Katheesh/katheesh.github.io/raw/master/bee/download/BeePlayer.zip) :arrow_heading_down:
+## [Click To download bee Player](https://github.com/Katheesh/public/raw/master/zip/BeePlayer.zip) :arrow_heading_down:
 
 
-## [Click To download bee Analyzer](https://github.com/Katheesh/katheesh.github.io/raw/master/bee/download/BeeAnalyzer.zip) :arrow_heading_down:
+## [Click To download bee Analyzer](https://github.com/Katheesh/public/raw/master/zip/BeeAnalyzer.zip) :arrow_heading_down:
 
 
-## [Click To download bee Player & bee Analyzer](https://github.com/Katheesh/katheesh.github.io/raw/master/bee/download/setups.zip) :arrow_heading_down:
+## [Click To download bee Player & bee Analyzer](https://github.com/Katheesh/public/raw/master/zip/setups.zip) :arrow_heading_down:
 
 ## Screenshots :framed_picture:
 
